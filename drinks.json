@@ -1,0 +1,31 @@
+{
+  "cocktails": [
+    { "name": "Wodka Lemon", "price": "7,60", "ingredients": "Wodka, Zitronenlimonade" },
+    { "name": "Cuba Libre", "price": "9,00", "ingredients": "Rum, Cola, Limette" },
+    { "name": "Limoncello Spritz", "price": "9,00", "ingredients": "Limoncello, Prosecco, Soda" },
+    { "name": "Aperol Spritz", "price": "6,90", "ingredients": "Aperol, Prosecco, Soda" },
+    { "name": "Kyjiw Mule", "price": "9,80", "ingredients": "Wodka, Ingwerbier, Limette, Gurke" },
+    { "name": "Munich Mule", "price": "9,80", "ingredients": "Wodka, Ingwerbier, Limette, Gurke" },
+    { "name": "Lillet Buck", "price": "8,50", "ingredients": "Lillet Blanc, Ingwerbier, Limette" },
+    { "name": "Sekt Mate", "price": "8,-", "ingredients": "Sekt, Club-Mate" },
+    { "name": "Sekt Mate Lateralis", "price": "10,-", "ingredients": "Sekt, Mate, Wodka" }
+  ],
+  "specials": [
+    { "name": "Gin Basil Smash", "price": "10,-", "ingredients": "Gin, Basilikum, Limette" }
+  ],
+  "softdrinks": [
+    { "name": "Coca Cola / Fanta", "price": "3,50", "ingredients": "je 0,33l Flasche" },
+    { "name": "Zitronen/Limetten Limonade", "price": "5,-", "ingredients": "Zitrone, Limette, Mineralwasser" },
+    { "name": "Holunder/Zitrone Limonade", "price": "5,-", "ingredients": "Holunder, Zitrone, Mineralwasser" },
+    { "name": "Mineralwasser (0,4l)", "price": "2,-", "ingredients": "Still oder Sprudel" },
+    { "name": "Tropical Karsten (Mocktail)", "price": "6,50", "ingredients": "Zitrone, Limette, Blue Curaçao, Mineralwasser" }
+  ],
+  "shots": [
+    { "name": "Mexikaner", "price": "2,-", "ingredients": "Tomate, Wodka, Chili, Gewürze" },
+    { "name": "Pfeffi", "price": "2,90", "ingredients": "Pfefferminzlikör" },
+    { "name": "Wodka Maracuja", "price": "3,-", "ingredients": "Wodka, Maracujasaft" }
+  ],
+  "beer": [
+    { "name": "Last Resort Bier (0,33l)", "price": "2,90", "ingredients": "Naturtrübes, kalt gereiftes Bier mit mildem, vollmundigem Geschmack." }
+  ]
+}
