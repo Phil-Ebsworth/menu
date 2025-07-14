@@ -1,7 +1,7 @@
-*.pdf
-*.aux
-*.log
-*.fls
-*.fdb_latexmk
-*.synctex.gz
+template/*.pdf
+template/*.aux
+template/*.log
+template/*.fls
+template/*.fdb_latexmk
+template/*.synctex.gz
 pdf/
